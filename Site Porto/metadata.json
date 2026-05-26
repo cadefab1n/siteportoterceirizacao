@@ -1,0 +1,6 @@
+{
+  "name": "Porto Terceirização - Gestão de Facilities de Elite",
+  "description": "Site institucional moderno e persuasivo para a Porto Terceirização, especializada em serviços para condomínios e empresas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
